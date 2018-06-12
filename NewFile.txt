@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 First File master
+with bugfix 03
+>>>>>>> 5d8cc5ccd5fcd3cf86b6de4bd664f394dbcf6c7f
