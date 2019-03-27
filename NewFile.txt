@@ -1,2 +1,5 @@
 First File master 2
 Bugfix 04
+
+
+Add multiple new lines
